@@ -1,0 +1,32 @@
+body  {
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    color: blackH;
+}
+h1 `{
+    text-align: center;
+    Font: 3.5;
+    margin: 50px;
+    color: 000;
+    nav{
+        text-align: center;
+        margin: 20px;
+    }
+    nav a{
+        text-decoration: none;
+        color: beige;
+        margin: 15px;
+        font-weight: bold;
+    }
+    nav a:hover {
+        color:aqua
+    }
+    section {
+        max-width: 800px;
+        margin:40px;
+        padding: 20px;
+        background-color: white;
+        border-radius: 8px;
+    }
